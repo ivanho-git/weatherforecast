@@ -1,4 +1,4 @@
-# 🌦️ Fancy Weather Forecast App
+# 🌦️Weather Forecast App
 
 A modern, responsive desktop weather app built using **Python Tkinter** and the **OpenWeatherMap API**.
 
