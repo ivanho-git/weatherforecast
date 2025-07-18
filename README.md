@@ -7,11 +7,11 @@ A modern, responsive desktop weather app built using **Python Tkinter** and the 
 ## 📸 Screenshots
 
 ### 🔍 Main Interface
-<img width="750" height="731" alt="Screenshot 2025-07-18 175913" src="https://github.com/user-attachments/assets/6520cbed-27be-44b3-b4ef-4cccfa086844" />
+<img width="748" height="684" alt="Screenshot 2025-07-18 180500" src="https://github.com/user-attachments/assets/ccac1f65-6b4d-44c5-9a08-ac46d4d6346a" />
 
 
 ### ☁️ Weather Example
-<img width="745" height="726" alt="Screenshot 2025-07-18 175931" src="https://github.com/user-attachments/assets/3d415941-0fbb-40b6-9d86-4758d430eaae" />
+<img width="747" height="688" alt="Screenshot 2025-07-18 180515" src="https://github.com/user-attachments/assets/b27bd364-57dc-4d4a-affc-3c1284758843" />
 
 
 ---
